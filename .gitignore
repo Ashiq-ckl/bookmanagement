@@ -1,0 +1,39 @@
+*.log
+*.pot
+*.pyc
+*.media
+*.env
+*/__pycache__/
+*.pyc
+*.db
+*venv
+*idea/
+media/*
+media/
+*.DS_Store
+*envcred
+
+# Environments
+.envcred
+.env
+.venv
+env/
+venv/
+env.bak/
+venv.bak/
+log/
+.DS_Store
+# Documentation 
+documents
+drfrole/cache/
+drfrole/logs/
+drfrole/crontab/
+#media
+
+# Visual Studio Code # 
+.vscode/* 
+!.vscode/settings.json 
+!.vscode/tasks.json 
+!.vscode/launch.json 
+!.vscode/extensions.json 
+.history
